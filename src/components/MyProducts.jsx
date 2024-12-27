@@ -1,11 +1,11 @@
 import MyProductsCard from "./MyProductsCard";
 import Plants from "../Json/Plants.json";
 import "../style/MyProducts.css";
-
 export default function MyProducts({ selectedCategory, searchText }) {
+  
   console.log("inside MyProducts , selectedCategory : ", selectedCategory);
   console.log("inside MyProducts , searchText : ", searchText);
-
+  
   // use filter to make to array (filteredPlants) according to the prop selectedCategory and searchtext
   // if its "All" the new array will have all plants other wise only the selectedCategory or name includes searchtext
 
@@ -20,10 +20,8 @@ export default function MyProducts({ selectedCategory, searchText }) {
     console.log("Inside Filter fn , searchTextMatch : ", searchTextMatch);
     return categoryMatch && searchTextMatch;
   });
-
   console.log("Inside MyProducts , FilteredPlants : ", filteredPlants);
   // console.log("Inside MyProducts ,  : ", plant.category);
-
   return (
     <div className="container mb-5 products-container">
       {!filteredPlants.length ? (

@@ -5,14 +5,8 @@ export default function MyProductsCard({ ...plant }) {
   // console.log("Inside MyProductsCard , Plant:  ", plant);
   // console.log("Inside MyProductsCard , Plant-Category:  ", plant.category);
 
-
-
   return (
-
-
     <div className="card plant-card ">
-  
-
       <img
         src={`/images/${plant.image}`}
         className="card-img-top"

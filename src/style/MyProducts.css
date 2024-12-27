@@ -7,3 +7,8 @@
     font-weight: 500;
     font-size: 28px;
 }
+@media screen and (max-width: 575px){
+    .products-container{
+        margin-top: 150px;
+    }
+}
