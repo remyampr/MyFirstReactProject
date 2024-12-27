@@ -1,0 +1,9 @@
+ .products-container{
+    margin-top: 100px;
+}
+.products-container .error-msg{
+    text-align: center;
+    color: #198754;
+    font-weight: 500;
+    font-size: 28px;
+}

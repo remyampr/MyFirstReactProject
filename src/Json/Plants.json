@@ -1,0 +1,127 @@
+[
+    {
+      "id": 1,
+      "name": "Aloe Vera",
+      "price": 200,
+      "category": "Succulent",
+      "image": "aloevera.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Jasmine",
+      "price": 300,
+      "category": "Outdoor",
+      "image": "jasmine.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Snake Plant",
+      "price": 250,
+      "category": "Indoor",
+      "image": "snakeplant.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Monstera",
+      "price": 150,
+      "category": "Indoor",
+      "image": "monstera.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Cactus",
+      "price": 200,
+      "category": "Succulent",
+      "image": "cactus.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Peace Lily",
+      "price": 100,
+      "category": "Indoor",
+      "image": "peacelilly.jpg"
+    },
+    {
+      "id": 7,
+      "name": "ZZ Plant",
+      "price": 120,
+      "category": "Indoor",
+      "image": "zzplant.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Bamboo Palm",
+      "price": 150,
+      "category": "Indoor",
+      "image": "palmtree.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Rose",
+      "price": 100,
+      "category": "Outdoor",
+      "image": "rose.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Orchid",
+      "price": 400,
+      "category": "Outdoor",
+      "image": "orchid.jpg"
+    },
+    
+    {
+      "id": 11,
+      "name": "African Violet",
+      "price": 260,
+      "category": "Outdoor",
+      "image": "africanviolet.jpg"
+    }
+    ,
+    
+    {
+      "id": 12,
+      "name": "Anthurium",
+      "price":300,
+      "category": "Outdoor",
+      "image": "anthurium.jpg"
+    }
+    ,
+    
+    {
+      "id": 13,
+      "name": "Echeveria",
+      "price":400,
+      "category": "Succulent",
+      "image": "echeveria.jpg"
+    }
+    ,
+    
+    {
+      "id": 14,
+      "name": "Haworthia",
+      "price":380,
+      "category": "Succulent",
+      "image": "haworthia.jpg"
+    }
+    ,
+    
+    {
+      "id": 15,
+      "name": "Jade Plant",
+      "price":380,
+      "category": "Succulent",
+      "image": "jade.jpg"
+    }
+    ,
+    
+    {
+      "id": 16,
+      "name": "Teardrop",
+      "price":480,
+      "category": "Succulent",
+      "image": "teardrop.jpg"
+    }
+   
+  ]
+  

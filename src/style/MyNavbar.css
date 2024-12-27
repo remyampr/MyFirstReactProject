@@ -1,0 +1,59 @@
+body .nav-header {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 2;
+}
+.nav-header img {
+  margin-left: 10px;
+}
+.brand-name {
+  transition: all 0.3s linear;
+  flex-grow: 1;
+}
+.brand-name:hover {
+  transform: scaley(1.2);
+}
+
+.nav-items{
+  gap: 6px;
+}
+.search-bar {
+  background-color: #fff;
+  border-radius: 40px;
+  padding: 8px;
+  gap: 2px;
+  flex-grow: 1;
+}
+
+.search-bar .input-box {
+  border: none;
+  outline: none;
+  box-shadow: none;
+  caret-color: #198754;
+  color: #198754;
+}
+
+.search-bar .input-box::placeholder {
+  color: #198754;
+  opacity: 1;
+}
+
+.search-bar .input-box:focus {
+  outline: none;
+  border: none;
+  outline: none;
+  box-shadow: none;
+  caret-color: #198754;
+  color: #198754;
+}
+
+
+
+.search-bar .search-icon {
+  align-self: center;
+ 
+  color: #198754;
+  pointer-events: none; 
+}
+
